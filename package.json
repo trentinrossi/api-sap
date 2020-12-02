@@ -1,0 +1,33 @@
+{
+  "name": "api-sap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "npm test",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "microservice",
+    "sap",
+    "mongodb",
+    "api"
+  ],
+  "author": "Rodrigo Rossi <rodrigo.rossi@linkapi.com.br>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^7.14.0",
+    "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0",
+    "helmet": "^4.2.0",
+    "jest": "^26.6.3",
+    "node-rfc": "^0.1.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

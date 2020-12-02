@@ -1,0 +1,69 @@
+
+**** Trace file opened at 2020-12-02 13:49:50.597634 UTC-03:00 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 21:18:37
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: /mnt/c/Users/rdrg_/dev/api-sap-rossi, Program: node
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.19.104-microsoft-standard
+ Hostname: ROSSI, IP address: 127.0.1.1, IPv6 address: fe80::215:5dff:fe9c:1c52
+
+2020-12-02 13:49:50.598637 [140534125438784] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-12-02 13:49:50.600644 UTC-03:00 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 21:18:37
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: /mnt/c/Users/rdrg_/dev/api-sap-rossi, Program: node
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.19.104-microsoft-standard
+ Hostname: ROSSI, IP address: 127.0.1.1, IPv6 address: fe80::215:5dff:fe9c:1c52
+
+2020-12-02 13:49:50.603136 [140534125438784] >> Error entry
+	The UUID daemon (uuidd) is not active.
+Please ask your system administrator to activate uuidd according to SAP note 1391070.
+
+
+**** Trace file opened at 2020-12-02 14:55:22.113454 UTC-03:00 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 21:18:37
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: /mnt/c/Users/rdrg_/dev/api-sap-rossi, Program: node
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.19.104-microsoft-standard
+ Hostname: ROSSI, IP address: 127.0.1.1, IPv6 address: fe80::215:5dff:fe9c:1c52
+
+2020-12-02 14:55:22.114365 [140529331087168] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-12-02 14:55:22.116573 UTC-03:00 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 21:18:37
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: /mnt/c/Users/rdrg_/dev/api-sap-rossi, Program: node
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.19.104-microsoft-standard
+ Hostname: ROSSI, IP address: 127.0.1.1, IPv6 address: fe80::215:5dff:fe9c:1c52
+
+2020-12-02 14:55:22.117271 [140529331087168] >> Error entry
+	The UUID daemon (uuidd) is not active.
+Please ask your system administrator to activate uuidd according to SAP note 1391070.
+
+
+**** Trace file opened at 2020-12-02 14:58:30.510365 UTC-03:00 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 21:18:37
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: /mnt/c/Users/rdrg_/dev/api-sap-rossi, Program: node
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.19.104-microsoft-standard
+ Hostname: ROSSI, IP address: 127.0.1.1, IPv6 address: fe80::215:5dff:fe9c:1c52
+
+2020-12-02 14:58:30.510952 [140181028820800] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-12-02 14:58:30.512349 UTC-03:00 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 21:18:37
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: /mnt/c/Users/rdrg_/dev/api-sap-rossi, Program: node
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.19.104-microsoft-standard
+ Hostname: ROSSI, IP address: 127.0.1.1, IPv6 address: fe80::215:5dff:fe9c:1c52
+
+2020-12-02 14:58:30.512664 [140181028820800] >> Error entry
+	The UUID daemon (uuidd) is not active.
+Please ask your system administrator to activate uuidd according to SAP note 1391070.
+
