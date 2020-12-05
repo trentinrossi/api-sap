@@ -1,5 +1,7 @@
 FROM node:8
 
+RUN apt-get update
+RUN apt-get install nano
 
 ENV SAPNWRFC_HOME /usr/local/sap/nwrfcsdk
 

@@ -19,6 +19,7 @@
   "author": "Rodrigo Rossi <rodrigo.rossi@linkapi.com.br>",
   "license": "ISC",
   "dependencies": {
+    "compression": "^1.7.4",
     "dotenv": "^8.2.0",
     "eslint": "^7.14.0",
     "express": "^4.17.1",
