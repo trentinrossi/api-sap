@@ -21,14 +21,16 @@ function callRfc(req, res) {
       return res.status(400).json(err);
     }
 
-    console.log(`'Invoking ${rfcName}`);
+    console.log(`Calling ${rfcName}`);
+    console.time(`RFC ${rfcName} returned in`);
     client.invoke(rfcName, params, function (err, resRfc) {
       if (err) {
-        console.error('Error invoking ZIF_LOCALDB_SAW_H_D8:', err);
+        console.error(`Error calling ${rfcName}`, err);
         return res.status(400).json(err);
       }
 
       console.log(`Data returned successfully from RFC ${rfcName}`);
+      console.timeEnd(`RFC ${rfcName} returned in`);
       return res.status(200).json(resRfc);
     });
   });

@@ -16,6 +16,7 @@ app.use(compression());
 app.use(express.json());
 app.use('/api/sap', sapRoute);
 
-app.listen(port);
+var server = app.listen(port);
+server.setTimeout(900000);
 
-console.log(`Running on port ${port}`);
+console.log(`API SAP started and running on port ${port}`);
